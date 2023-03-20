@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=X-Cotang&theme=dracula&column=11'>  
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=X-Cotang&theme=dracula&column=11)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align=left>
-<img algin='left' width='49%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=X-Cotang&count_private=true&show_icons=true&theme=dracula' /><img algin='right' width='49%' src='https://github-readme-streak-stats.herokuapp.com/?user=X-Cotang&theme=dracula' />  
+<img algin='left' width='49%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=X-Cotang&count_private=true&show_icons=true&theme=dracula' /><img algin='right' width='49%' src='https://streak-stats.demolab.com/?user=X-Cotang&theme=dracula' />  
 </p>  
 
 ## ⚡ Technologies
